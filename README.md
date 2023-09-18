@@ -5,7 +5,7 @@
 ##### 23a
 ###### 23a
 
-![NKUST](C:\Users\88693\Desktop\nkust.png '高科大')
+![NKUST](C:/Users/88693/Desktop/nkust.png '高科大')
 
 - [x] To do list
 - [ ] 2nd thing
