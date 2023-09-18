@@ -5,7 +5,7 @@
 ##### 23a
 ###### 23a
 
-![NKUST](C:/Users/88693/Desktop/nkust.png '高科大')
+![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/771935115.jpg '高科大')
 
 - [x] To do list
 - [ ] 2nd thing
