@@ -17,6 +17,7 @@ gantt
     使用者測試   :a11, after a9  , 25d
 ```
 
+# 甘特圖
 ```mermaid
 gantt
     title 甘特圖
