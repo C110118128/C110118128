@@ -2,6 +2,7 @@
 ```mermaid
 gantt
     title 甘特圖
+
     section 任務
     研擬計劃     :a1, 2023-09-01, 1d
     任務分配     :a2, after a1  , 4d
