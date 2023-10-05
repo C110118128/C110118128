@@ -1,4 +1,4 @@
-```
+```mermaid
 gantt
     title 任務清單
     section 任務
